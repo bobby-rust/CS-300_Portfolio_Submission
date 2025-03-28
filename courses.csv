@@ -1,0 +1,7 @@
+CS101,Intro to CS
+CS102,Data Structures,CS101
+CS103,Algorithms,CS101
+CS201,Operating Systems,CS102,CS103
+CS202,Networking,CS102,CS103
+CS301,Distributed Systems,CS201,CS202
+CS302,Machine Learning,CS201,CS202
