@@ -1,7 +1,44 @@
-CS101,Intro to CS
+CS101,Intro to Programming
 CS102,Data Structures,CS101
-CS103,Algorithms,CS101
-CS201,Operating Systems,CS102,CS103
-CS202,Networking,CS102,CS103
-CS301,Distributed Systems,CS201,CS202
-CS302,Machine Learning,CS201,CS202
+CS103,Computer Architecture,CS101
+CS104,Web Development,CS101
+CS201,Algorithms,CS102
+CS202,Operating Systems,CS103,CS102
+CS203,Software Engineering,CS201
+CS204,Cybersecurity,CS202
+CS205,Mobile App Development,CS104
+CS301,Databases,CS201
+CS302,Computer Networks,CS202
+CS303,Embedded Systems,CS202
+CS304,Cloud Computing,CS301,CS302
+CS305,Big Data Analytics,CS301
+CS401,Machine Learning,CS305
+CS402,Artificial Intelligence,CS401
+CS403,Computer Graphics,CS201
+CS404,Blockchain Development,CS304
+CS405,Internet of Things (IoT),CS303
+MATH101,Calculus I
+MATH102,Calculus II,MATH101
+MATH201,Discrete Mathematics,MATH102
+MATH202,Probability & Statistics,MATH201
+MATH301,Linear Algebra,MATH201
+MATH302,Graph Theory,MATH201
+PHYS101,Physics I
+PHYS102,Physics II,PHYS101
+PHYS201,Quantum Computing,PHYS102,MATH301
+ENG101,English Composition
+ENG102,Technical Writing,ENG101
+HIST101,World History
+HIST102,History of Technology,HIST101
+ECON101,Microeconomics
+ECON102,Macroeconomics,ECON101
+BUS101,Business Fundamentals
+BUS201,Entrepreneurship,BUS101
+SCI101,Biology
+SCI102,Chemistry
+SCI103,Earth Science
+SCI201,Environmental Science,SCI102
+PSY101,Introduction to Psychology
+PSY201,Cognitive Science,PSY101,CS402
+PHIL101,Ethics
+PHIL201,Philosophy of AI,PHIL101,CS402
